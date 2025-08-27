@@ -5,6 +5,7 @@
 
 💡 What I Do
 
+
 💻 Software & Scripting
 Python utilities for traffic analysis & automation
 
@@ -31,6 +32,7 @@ File system, memory, and PCAP traffic analysis
 
 Hands-on with Magnet AXIOM, Autopsy, FTK
 
+
 🛠️ Projects & Experience
 
 🎲 Java-based Dice Betting Game — object-oriented design and probability logic.
@@ -50,6 +52,7 @@ Hands-on with Magnet AXIOM, Autopsy, FTK
 
 💻 Information Technology Foundations — Hack The Box Academy
 
+
 🌟 Strengths
 
 Analytical mindset with strong problem-solving skills
@@ -59,6 +62,7 @@ Balanced skillset across offensive, defensive, and forensic security
 Passionate continuous learner
 
 Native Spanish, fluent in English
+
 
 📖 Currently Exploring
 
